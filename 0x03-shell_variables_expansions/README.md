@@ -1,4 +1,5 @@
 <h3>Shell, init files, variables and expansions</h3>
+
 File 0-alias is a script that creates an alias.
 
 File 1-hello_you is script that prints hello user, where user is the current Linux user.
@@ -27,10 +28,10 @@ File 12-combinations is a script that prints all possible combinations of two le
 
 File 13-print_float is a script that prints a number with two decimal places, followed by a new line.
 
-File 
+File 100-decimal_to_hexadecimal is a script that converts a number from base 10 to base 16. 
 
-File 
+File 101-rot13 is a script that encodes and decodes text using the rot13 encryption. Assume ASCII.
 
-File 
+File 102-odd is a script that prints every other line from the input, starting with the first line.
 
-File
+File 103-water_and_stir is script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
